@@ -1,0 +1,1 @@
+"# Zockerenten.github.io"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/Dr-Zockerente/Zockerenten.github.io.gitgit push -u origin master
